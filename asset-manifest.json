@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AccuknoxDemo/static/css/main.14329d24.css",
+    "main.js": "/AccuknoxDemo/static/js/main.464323f2.js",
+    "static/js/496.2ba5703d.chunk.js": "/AccuknoxDemo/static/js/496.2ba5703d.chunk.js",
+    "static/media/icon_company_white.svg": "/AccuknoxDemo/static/media/icon_company_white.91ddc82d5d377a4909d71dcb39c5b574.svg",
+    "static/media/icon_company_black.svg": "/AccuknoxDemo/static/media/icon_company_black.ab05ac1db434f0b51a7489840b886134.svg",
+    "static/media/icon_person_black.svg": "/AccuknoxDemo/static/media/icon_person_black.c7d2156e6db8f5ac9bae9666645a3d3d.svg",
+    "static/media/icon_person_white.svg": "/AccuknoxDemo/static/media/icon_person_white.f7dbb8487715cf3f151edec6ae106788.svg",
+    "static/media/icon_vessel_black.svg": "/AccuknoxDemo/static/media/icon_vessel_black.27e545be494a64d3f5a40b4f18e10461.svg",
+    "static/media/icon_vessel_white.svg": "/AccuknoxDemo/static/media/icon_vessel_white.ef9525cfd6dc1d7ab904bafc80b7fcbf.svg",
+    "static/media/logo.svg": "/AccuknoxDemo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AccuknoxDemo/index.html",
+    "main.14329d24.css.map": "/AccuknoxDemo/static/css/main.14329d24.css.map",
+    "main.464323f2.js.map": "/AccuknoxDemo/static/js/main.464323f2.js.map",
+    "496.2ba5703d.chunk.js.map": "/AccuknoxDemo/static/js/496.2ba5703d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14329d24.css",
+    "static/js/main.464323f2.js"
+  ]
+}
