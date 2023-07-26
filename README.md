@@ -1,3 +1,10 @@
+# Reasoning 
+For the given task that is graph visualization, it is not like some data representation, we have to manipulate data and present the network as live as possible, so compared to d3 or highcharts, i choose cytoscape for a serious graph component, also i had already used it in one of my projects so took advantage of it,
+
+i've done a simple graph with Grouping options, changing layouts, zoom in and out, dispalying node and edge details. 
+
+ [here](https://dhana6795.github.io/AccuknoxDemo/) is the demo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
